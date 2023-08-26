@@ -1,0 +1,1 @@
+python test.py --checkpoint SYSU_p7_dp_l2_seed_0.pth;
