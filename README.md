@@ -33,6 +33,13 @@ chmod 755 train.sh
 ```
 
 ## Requirement
+```
+numpy==1.24.2
+torch==2.0.0
+torchvision==0.15.1
+PyYAML==6.0
+pytorch-ignite==0.1.2
+```
 
 
 ## Citation
