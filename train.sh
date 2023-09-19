@@ -1,1 +1,1 @@
-python train.py --log_name SYSU_p7_dp_l2_seed_0 --dp_w 0.5 --cs_w 1 --seed 2022;
+python train.py --log_name SYSU_p7_dp_l2_seed_0 --dp_w 0.5 --cs_w 1;
