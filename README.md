@@ -45,15 +45,16 @@ pytorch-ignite==0.1.2
 ## Citation
 If you find our work useful for your research, please consider citing the following papers :)
 
-<!-- ```bibtex
-@inproceedings{fang2023saai,
-  title={Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inferenc},
-  author={Xingye Fang, Yang Yang, and Ying Fu},
-  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
-  pages={},
-  year={2023}
+```bibtex
+@InProceedings{Fang_2023_ICCV,
+    author    = {Fang, Xingye and Yang, Yang and Fu, Ying},
+    title     = {Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inference},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {11270-11279}
 }
-``` -->
+``` 
 
 ## Contact
 If you find any problem, please feel free to contact me (fangxingye@bit.edu.cn). A brief self-introduction is required, if you would like to get an in-depth help from me.
