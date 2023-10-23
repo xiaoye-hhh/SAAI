@@ -1,5 +1,5 @@
 # SAAI
-The implementation of ICCV 2023 "[Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inference]()".
+The implementation of ICCV 2023 [Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Fang_Visible-Infrared_Person_Re-Identification_via_Semantic_Alignment_and_Affinity_Inference_ICCV_2023_paper.pdf).
 
 ![框架](images/framework.png)
 
