@@ -6,8 +6,8 @@ rerank: false
 # dataset
 sample_method: identity_random
 image_size: (288, 144)
-p_size: 10
-k_size: 10
+p_size: 4
+k_size: 8
 
 dataset: regdb
 
